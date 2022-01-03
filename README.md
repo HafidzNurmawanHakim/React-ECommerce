@@ -2,7 +2,7 @@ Version 1.0
 > Redux
 > Fake store API
 
-Next Version 2 ---> <h1 style={{color: 'red'}}>Under Development</h1>
+Next Version 2 ---> Under Development
 > Authentication
 > Cart Display
 > WishList
