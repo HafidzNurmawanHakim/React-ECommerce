@@ -1,3 +1,13 @@
+Version 1.0 
+> Redux
+> Fake store API
+
+Next Version 2 ---> <h1 style={{color: 'red'}}>Under Development</h1>
+> Authentication
+> Cart Display
+> WishList
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
